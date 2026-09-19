@@ -1,0 +1,25 @@
+{
+  "name": "NPOみんなのサンタ フードバンク出庫管理表",
+  "short_name": "みんなのサンタ",
+  "description": "NPOみんなのサンタ フードバンクの入庫・在庫・使用期限・出庫を管理するアプリ",
+  "start_url": "./NPOみんなのサンタフードバンク出庫管理表.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#008a4b",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
